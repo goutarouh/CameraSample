@@ -1,4 +1,4 @@
-package com.github.goutarouh.baseandroidproject
+package com.github.goutarouh.camerasample.data
 
 import org.junit.Test
 
